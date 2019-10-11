@@ -1,5 +1,5 @@
 # FiSh
-Fisher-Shannon method
+Proposes non-parametric estimates of the Fisher Information Measure and the Shannon Entropy Power.
 
 # Installation
 
