@@ -1,0 +1,2 @@
+# FiSh
+Fisher-Shannon method
