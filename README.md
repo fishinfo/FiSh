@@ -15,7 +15,7 @@ devtools::install_github("fishinfo/FiSh")
 Fabian Guignard and Mohamed Laib 
 
 #### Maintainer
-Mohamed Laib [mohamed.laib (at) unil.ch] or 
+Mohamed Laib [mohamed.laib (at) list.lu] or 
 [laib.med (at) gmail.com]
 
 #### URL
@@ -25,7 +25,7 @@ Mohamed Laib [mohamed.laib (at) unil.ch] or
 MIT
 
 #### Note
-a Python version of this work is also available on the following:
+A Python version of this work is also available on the following:
 
 [https://pypi.org/project/FiShPy/](https://pypi.org/project/FiShPy/)
 
