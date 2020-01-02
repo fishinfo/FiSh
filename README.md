@@ -24,6 +24,8 @@ Mohamed Laib [mohamed.laib (at) list.lu] or
 #### License
 MIT
 
+[![Downloads from the RStudio CRAN mirror](http://cranlogs.r-pkg.org/badges/grand-total/FiSh)](http://cran.rstudio.com/package=FiSh)
+
 #### Note
 A Python version of this work is also available on the following:
 
